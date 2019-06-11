@@ -1,1 +1,1 @@
-# List of my Machine Learning Projects
+# Machine Learning Projects
